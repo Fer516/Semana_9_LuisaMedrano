@@ -1,0 +1,10 @@
+C:\Users\MINEDUCYT\source\repos\Formulario_Semana9\Formulario_Semana9\bin\Debug\Formulario_Semana9.exe.config
+C:\Users\MINEDUCYT\source\repos\Formulario_Semana9\Formulario_Semana9\bin\Debug\Formulario_Semana9.exe
+C:\Users\MINEDUCYT\source\repos\Formulario_Semana9\Formulario_Semana9\bin\Debug\Formulario_Semana9.pdb
+C:\Users\MINEDUCYT\source\repos\Formulario_Semana9\Formulario_Semana9\obj\Debug\Formulario_Semana9.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\Formulario_Semana9\Formulario_Semana9\obj\Debug\Formulario_Semana9.Form1.resources
+C:\Users\MINEDUCYT\source\repos\Formulario_Semana9\Formulario_Semana9\obj\Debug\Formulario_Semana9.Properties.Resources.resources
+C:\Users\MINEDUCYT\source\repos\Formulario_Semana9\Formulario_Semana9\obj\Debug\Formulario_Semana9.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\source\repos\Formulario_Semana9\Formulario_Semana9\obj\Debug\Formulario_Semana9.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\Formulario_Semana9\Formulario_Semana9\obj\Debug\Formulario_Semana9.exe
+C:\Users\MINEDUCYT\source\repos\Formulario_Semana9\Formulario_Semana9\obj\Debug\Formulario_Semana9.pdb
